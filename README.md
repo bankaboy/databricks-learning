@@ -1,0 +1,1 @@
+Weekly learning sessions to learn the capabilities of databricks and to keep notes
