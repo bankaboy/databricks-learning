@@ -1,5 +1,3 @@
-Weekly learning sessions to learn the capabilities of databricks and to keep notes
-
 REPO: https://github.com/bankaboy/databricks-learning-sessions
 
 Important Links:
