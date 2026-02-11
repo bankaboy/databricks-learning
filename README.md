@@ -1,4 +1,4 @@
-REPO: https://github.com/bankaboy/databricks-learning-sessions
+REPO: https://github.com/bankaboy/databricks-learning
 
 Important Links:
 * https://docs.databricks.com/aws/en/repos/git-folders-concepts
