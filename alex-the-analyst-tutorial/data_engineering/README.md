@@ -1,0 +1,7 @@
+Following the [data engineering in databricks](https://www.youtube.com/watch?v=hEv5y_s0L3c) tutorial by alex the analyst
+
+### Lesson 1: Ingesting Data into Databricks
+- ELT in Databricks
+  - Load the raw data, clean it and prepare it for analytics (Bronze --> Silver -> Gold)
+  - Store data in the Delta tables and transform it using SQL, Python or Spark
+  - Usually follows ELT: load first , transform inside Databricks
