@@ -1,0 +1,16 @@
+resources:
+  jobs:
+    job_to_run_end_to_end_pipeline:
+      name: job to run end to end pipeline
+      trigger:
+        pause_status: UNPAUSED
+        table_update:
+          table_names:
+            - data_engineering.end_to_end.transactions
+      tasks:
+        - task_key: end_to_end_etl_pipeline
+          pipeline_task:
+            pipeline_id: a87ca4bd-8813-4b62-afcb-9dc1bb76fc35
+      queue:
+        enabled: true
+      performance_target: PERFORMANCE_OPTIMIZED
