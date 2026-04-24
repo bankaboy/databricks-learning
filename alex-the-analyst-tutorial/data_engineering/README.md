@@ -24,3 +24,6 @@ Following the [data engineering in databricks](https://www.youtube.com/watch?v=h
   - KPIs and dashboards
   - ML Feature store
   - Business logic applied 
+
+### Lesson 3: Job Orchestration:
+Can set up pipelines as job or notebooks directly if simpler work. Can set up triggers and schedules and dependencies in a similar fashion to adf.
